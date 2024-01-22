@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/https://github.com/mundo88/My2Hand-Client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/mundo88/My2Hand-Server.git
